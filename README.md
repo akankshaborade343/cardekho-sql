@@ -9,10 +9,10 @@ This project demonstrates my ability to import real-world data from Excel into a
 
 - Data cleaning and formatting were performed
 
--The cleaned Excel data was then imported into a SQL table
+- The cleaned Excel data was then imported into a SQL table
 
 
--All analysis was conducted using SQL queries
+- All analysis was conducted using SQL queries
 
 🔍 Project Objectives
 
